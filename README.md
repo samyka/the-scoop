@@ -2,8 +2,7 @@ Codecademy Pro
 # The Scoop 
 
 ## Project Overview
-
-this project, I build all of the routing and database 
+Build all of the routing and database 
 logic for an article submission web app called The Scoop.
 
 The Scoop allows users to:
